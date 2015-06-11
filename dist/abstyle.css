@@ -1,6 +1,6 @@
 #fullwidth{
 	width: 100%;
 	min-width: 700px;
-
 }
 #fullwidth img, {border: none;}
+.date-header{display:none;}
