@@ -1,9 +1,4 @@
-//<![CDATA[
 
-/*jshint forin:true, noarg:true, noempty:true, eqeqeq:true, bitwise:true, strict:true, undef:true, curly:false, browser:true, jquery:false */
-/*global jQuery BackgroundHelper */
-
-// css helper
 (function ($) {
     'use strict';
     var data = [
@@ -1544,13 +1539,7 @@ jQuery(function ($) {
     });
 });
 
-//]]>
 
-
-//<![CDATA[
-
-/*jshint forin:true, noarg:true, noempty:true, eqeqeq:true, bitwise:true, strict:true, undef:true, curly:false, browser:true, jquery:false */
-/*global jQuery */
 
 var responsiveDesign = {
     isResponsive: false,
@@ -1907,7 +1896,7 @@ jQuery(window).bind("responsive", function (event, responsiveDesign) {
 
 jQuery(responsiveDesign.initialize);
 
-//]]>
+
 
 
 
